@@ -8,7 +8,7 @@ import yfinance as yf
 import pandas as pd 
 import numpy as np
 from pypfopt import EfficientFrontier,objective_functions
-from pypfopt import BlackLittermanModel, plotting
+from pypfopt import BlackLittermanModel
 import plotly.express as px
 import yahoo_fin
 import yahoo_fin.stock_info as si

@@ -1,0 +1,7 @@
+numpy==1.23.5
+pandas==1.5.2
+Pillow==9.4.0
+plotly==5.11.0
+streamlit==1.16.0
+yahoo_fin==0.8.9.1
+yfinance==0.1.89

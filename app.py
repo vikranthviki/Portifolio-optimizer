@@ -42,5 +42,6 @@ def main():
             st.write(re[0])
             st.write(str(re[1][0]*100)+'is expected annual returns')
             st.write(str(re[1][1]*100)+'is % of volatility')          
-
+if __name__==main():
+    main()
     

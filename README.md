@@ -4,7 +4,7 @@ The application allows users to input their investment preferences, risk toleran
 Usage
 Once the application is running in your browser, you can interact with the following sections:
 
-****Portfolio Inputs**
+# Portfolio Inputs
 **Specify your investment preferences, such as asset allocation targets and risk tolerance.
 Choose whether to use predefined assets or input your asset data.
 Provide market views, including each asset's expected returns and confidence levels.
@@ -13,8 +13,8 @@ The optimized portfolio weights and key risk and return metrics will be displaye
 Efficient Frontier
 The application visualizes the efficient frontier, showing various portfolio risk-return combinations.
 Adjust the weight of tickers in df given.
-****Asset Selection**
-**Users can select assets from a predefined set or input their asset data in Yahoo Finance.
+# Asset Selection
+Users can select assets from assets in Yahoo Finance.
 Selecting predefined assets, choose the desired ones from the available list.
-The application calculates key risk and returns metrics for the optimized portfolio, including expected return, volatility, and Sharpe ratio.
+The application calculates the optimized portfolio's critical risk and returns metrics, including expected return, volatility, and Sharpe ratio.
 These metrics are displayed alongside the optimized portfolio allocation.

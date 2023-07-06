@@ -6,10 +6,9 @@ Once the application is running in your browser, you can interact with the follo
 
 # Portfolio Inputs
 **Specify your investment preferences, such as asset allocation targets and risk tolerance.
-Choose whether to use predefined assets or input your asset data.
 Provide market views, including each asset's expected returns and confidence levels.
-Portfolio Optimization
-The optimized portfolio weights and key risk and return metrics will be displayed and has two variations min volatility and max Sharpe.
+# Portfolio Optimization
+The optimized portfolio weights and critical risk and return metrics will be displayed and has two variations min volatility and max Sharpe.
 Efficient Frontier
 The application visualizes the efficient frontier, showing various portfolio risk-return combinations.
 Adjust the weight of tickers in df given.

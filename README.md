@@ -5,7 +5,7 @@ Usage
 Once the application is running in your browser, you can interact with the following sections:
 
 # Portfolio Inputs
-**Specify your investment preferences, such as asset allocation targets and risk tolerance.
+Specify your investment preferences, such as asset allocation targets and risk tolerance.
 Provide market views, including each asset's expected returns and confidence levels.
 # Portfolio Optimization
 The optimized portfolio weights and critical risk and return metrics will be displayed and has two variations min volatility and max Sharpe.
